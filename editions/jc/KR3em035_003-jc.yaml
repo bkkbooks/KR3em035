@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3em035/jc/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 周身穴法指明會參三卷銅人圖攢竹頭額眉縐上鼻角在兩鼻角夾車在兩墮下略離一分鼻流在鼻孔口為二穴肩井在肩上曲澤在手灣橫紋盡處曲池在肘外骨動窩處合谷在虎口之內軟肉上搃叉處少商在兩大指甲下外邊少衝在兩小指甲下外邊陰陵泉在靠膝肉略上些骨動處陽陵泉在膝外略下屈窩處臍下一寸為氣海臍下一寸五分為丹田患陰症用火醮諸穴皆屬督脈足大指有一穴如手指少商穴部位曰隱白屬肺脾經所謂足少商者即此
+  hash: sha256:3d5af2c02550fe4c836ddc4d6474c9850c55d405d43b8859f86a4c296461db9a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3em035_jc_003-d3.d40.h1s1}
+  - {type: 'tls:div-end', offset: 182, content: '', id: KR3em035_jc_000-d3d40}
+  - {type: 'tls:div-start', offset: 182, content: '', id: KR3em035_jc_000-d3d41, level: 2, head_text: 頭上穴法指明會參三卷銅人圖}
+metadata:
+  title: 集喉症諸方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em035.xml
+hash: sha256:f78b37ca120225415cc234107227f72450691eff197fe52e09284320ba83607e

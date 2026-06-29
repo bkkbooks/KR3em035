@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3em035/jc/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 頭上穴法指明會參三卷銅人圖齊眉上一寸為神庭又上一寸至上星再上一寸五分至囟會再上一寸五分至前頂又上一寸一分至百會再上一寸五分至後頂又直下窩處為火窩炕直略下些以耳唇相對為風府再橫開兩邊一寸五分窩處為風池二穴
+  hash: sha256:16b932e09052b824a5d9a4299261a15f170394bf57f6f702aed9b44fab37ed20
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3em035_jc_001-d3.d41.h1s1}
+  - {type: 'tls:div-end', offset: 101, content: '', id: KR3em035_jc_000-d3d41}
+  - {type: 'tls:div-start', offset: 101, content: '', id: KR3em035_jc_000-d3d42, level: 2, head_text: 喉風諸方}
+metadata:
+  title: 集喉症諸方
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em035.xml
+hash: sha256:5c28dd761f97adda6159d610d9ca9c1f6ccdd0467133bca07814c60cf5f4add1

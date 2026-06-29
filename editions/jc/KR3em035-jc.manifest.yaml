@@ -1,0 +1,469 @@
+canonical_identifier: bkk:krp/KR3em035/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em035/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 集喉症諸方
+  identifiers:
+    krp: KR3em035
+  tags:
+    kr-categories: KR3em
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em035.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em035_000-jc.yaml, hash: 'sha256:e4655ecddc21a91ce4dde26ac74fa582192b164fa4de03587538834c5e583580'}
+  - {seq: 3, filename: KR3em035_003-jc.yaml, hash: 'sha256:f78b37ca120225415cc234107227f72450691eff197fe52e09284320ba83607e'}
+  - {seq: 1, filename: KR3em035_001-jc.yaml, hash: 'sha256:5c28dd761f97adda6159d610d9ca9c1f6ccdd0467133bca07814c60cf5f4add1'}
+  - {seq: 0, filename: KR3em035_000-jc.yaml, hash: 'sha256:0a6a3c3aaf6599a0b0111b58a10f903db2d912c891a93688903b9fa648f1a964'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em035_000-jc.markers.yaml, hash: 'sha256:b47bd5eaf4f28b31f8ad10a073dcfd9dd20f53141bc8611d15a75f091412b0c0'}
+  - {seq: 3, role: markers, filename: assets/KR3em035_003-jc.markers.yaml, hash: 'sha256:5c1206969a4f179be411d1837d39b2cd694b2cf86e1ee5aa812305547e1554a2'}
+  - {seq: 1, role: markers, filename: assets/KR3em035_001-jc.markers.yaml, hash: 'sha256:9e362fd8229c4c50c8e72216405bd4a6e81d1005890268c2564b02942ffc5da6'}
+  - {seq: 0, role: markers, filename: assets/KR3em035_000-jc.markers.yaml, hash: 'sha256:b47bd5eaf4f28b31f8ad10a073dcfd9dd20f53141bc8611d15a75f091412b0c0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 324
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3.h1s1
+    span:
+    - body
+    - 324
+    - 4819
+  label: 喉風三十六症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d2
+    span:
+    - body
+    - 330
+    - 480
+  label: 鬥底風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d3
+    span:
+    - body
+    - 480
+    - 659
+  label: 又喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d4
+    span:
+    - body
+    - 659
+    - 770
+  label: 咽瘡風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d5
+    span:
+    - body
+    - 770
+    - 914
+  label: 魚鱗風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d6
+    span:
+    - body
+    - 914
+    - 1075
+  label: 雙松子風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d7
+    span:
+    - body
+    - 1075
+    - 1119
+  label: 單松子風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d8
+    span:
+    - body
+    - 1119
+    - 1244
+  label: 帝中風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d9
+    span:
+    - body
+    - 1244
+    - 1417
+  label: 雙蛾風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d10
+    span:
+    - body
+    - 1417
+    - 1484
+  label: 單蛾風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d11
+    span:
+    - body
+    - 1484
+    - 1609
+  label: 雙咽口風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d12
+    span:
+    - body
+    - 1609
+    - 1656
+  label: 單咽口風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d13
+    span:
+    - body
+    - 1656
+    - 1819
+  label: 重齶風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d14
+    span:
+    - body
+    - 1819
+    - 1908
+  label: 木舌風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d15
+    span:
+    - body
+    - 1908
+    - 2002
+  label: 重舌風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d16
+    span:
+    - body
+    - 2002
+    - 2141
+  label: 坐舌蓮花風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d17
+    span:
+    - body
+    - 2141
+    - 2246
+  label: 合架風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d18
+    span:
+    - body
+    - 2246
+    - 2344
+  label: 角架風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d19
+    span:
+    - body
+    - 2344
+    - 2580
+  label: 爆骨搜牙風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d20
+    span:
+    - body
+    - 2580
+    - 2685
+  label: 牙癰風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d21
+    span:
+    - body
+    - 2685
+    - 2817
+  label: 懸𤷍風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d22
+    span:
+    - body
+    - 2817
+    - 2925
+  label: 奪食風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d23
+    span:
+    - body
+    - 2925
+    - 3171
+  label: 魚口風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d24
+    span:
+    - body
+    - 3171
+    - 3260
+  label: 驢嘴風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d25
+    span:
+    - body
+    - 3260
+    - 3344
+  label: 魚鰓風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d26
+    span:
+    - body
+    - 3344
+    - 3451
+  label: 雙搭夾風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d27
+    span:
+    - body
+    - 3451
+    - 3482
+  label: 單搭夾風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d28
+    span:
+    - body
+    - 3482
+    - 3642
+  label: 落架風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d29
+    span:
+    - body
+    - 3642
+    - 3740
+  label: 粟房風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d30
+    span:
+    - body
+    - 3740
+    - 3821
+  label: 瘰癧風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d31
+    span:
+    - body
+    - 3821
+    - 3953
+  label: 穿領風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d32
+    span:
+    - body
+    - 3953
+    - 4030
+  label: 肥株子風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d33
+    span:
+    - body
+    - 4030
+    - 4120
+  label: 挎頸風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d34
+    span:
+    - body
+    - 4120
+    - 4234
+  label: 雙纏喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d35
+    span:
+    - body
+    - 4234
+    - 4301
+  label: 單纏喉風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d36
+    span:
+    - body
+    - 4301
+    - 4408
+  label: 偏頭風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d37
+    span:
+    - body
+    - 4408
+    - 4477
+  label: 乘枕風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d38
+    span:
+    - body
+    - 4477
+    - 4561
+  label: 秘傳口訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3d39
+    span:
+    - body
+    - 4561
+    - 4819
+  label: 仙傳針訣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em035_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 182
+  label: 喉風三十六症
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em035_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 101
+  label: 喉風三十六症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 918
+  label: 喉風三十六症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em035_jc_000-d4.h1s1
+    span:
+    - body
+    - 918
+    - 4923
+  label: 諸方藥性辨
+  type: section
+  level: 1
+hash: sha256:0d8ddb1d4749ff761b6b9ba693fa36ea713224bb55cfbca20388ad25ac03be9f
